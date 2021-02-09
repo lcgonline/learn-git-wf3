@@ -4,3 +4,4 @@
 * git add -N : indexer le fichier
 * git add : indexer et créer
 * git push : mettre à jour le repository distant
+* git commit : capture un instantané des modifications
