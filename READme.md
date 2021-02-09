@@ -5,5 +5,5 @@
 * git add : indexer et créer
 * git push : mettre à jour le repository distant
 * git push -u : 1e màj dans le repo distant avec "set upstream"
-* git commit : capture un instantané des modifications
-* git remote : gère la connexion avec le repository disant
+* git commit -m : capture un instantané des modifications et ajoute un commentaire
+* git remote : gère la connexion avec le repository distant
