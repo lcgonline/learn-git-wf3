@@ -5,3 +5,4 @@
 * git add : indexer et créer
 * git push : mettre à jour le repository distant
 * git commit : capture un instantané des modifications
+* git remote : gère la connexion avec le repository disant
